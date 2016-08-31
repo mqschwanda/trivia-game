@@ -1,2 +1,2 @@
-# trivia-game
-JS trivia game with timers
+# trivia game
+javascript trivia game
